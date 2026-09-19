@@ -1,6 +1,6 @@
-﻿# **Vitium** — Source Code Portfolio
+﻿# **Ex Vitiis** — Source Code Portfolio
 
-> **Vitium** is a dark fantasy first-person dungeon crawler with brutal souls-like combat, procedurally generated characters, and monsters pulled straight from the depths of the twisted medieval imagination.
+> **Ex Vitiis** is a dark fantasy first-person dungeon crawler with brutal souls-like combat, procedurally generated characters, and monsters pulled straight from the depths of the twisted medieval imagination.
 
 ---
 
